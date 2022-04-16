@@ -1,4 +1,4 @@
-![test](images/0_course-cover.jpeg)
+![test](images/0_cover.jpeg)
 
 > ...
 
